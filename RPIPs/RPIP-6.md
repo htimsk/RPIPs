@@ -4,7 +4,7 @@ author: Ken Smith (@htimsk) <shtimseht@gmail.com>
 status: Living
 type: Informational
 discussions-to: https://dao.rocketpool.net/t/proposal-to-allow-unethbounded-ueb-minipool-by-any-no-who-has-16-eth-of-rpl-available-as-collateral/447
-created: 2022-04-13
+created: 2022-04-14
 ---
  
 ## Abstract
